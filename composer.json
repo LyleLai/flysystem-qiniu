@@ -1,10 +1,10 @@
 {
-    "name": "overtrue/flysystem-qiniu",
+    "name": "lyle-lai/flysystem-qiniu",
     "description": "Flysystem adapter for the Qiniu storage.",
     "require": {
         "php": ">=5.5.9",
         "league/flysystem": "^1.0",
-        "qiniu/php-sdk": "^7.1"
+        "lyle-lai/php-sdk": "^7.1"
     },
     "require-dev": {
         "php": ">=5.6.0",
